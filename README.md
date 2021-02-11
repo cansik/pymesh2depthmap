@@ -35,3 +35,7 @@ It's also possible to just install the pip packages.
 ```
 pip install -r requirements.txt
 ```
+
+### Using
+
+For now this was just a quick demo. Parameter parsing and so on will be added later.
