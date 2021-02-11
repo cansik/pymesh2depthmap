@@ -1,0 +1,7 @@
+numpy
+trimesh
+pillow
+networkx
+rtree
+pyglet
+# pyembree
